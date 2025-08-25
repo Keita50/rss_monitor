@@ -1,0 +1,216 @@
+{
+  "timezone": "Asia/Tokyo",
+  "feeds": [
+    {
+      "name": "デジタル庁 新着・更新",
+      "type": "rss",
+      "url": "https://www.digital.go.jp/rss/news.xml",
+      "category": "政策・制度",
+      "keywords_any": [
+        "ガイドライン",
+        "標準",
+        "制度",
+        "義務",
+        "インボイス",
+        "Peppol",
+        "電子"
+      ]
+    },
+    {
+      "name": "経産省 新着情報",
+      "type": "rss",
+      "url": "https://www.meti.go.jp/rss/index.rdf",
+      "category": "政策・制度",
+      "keywords_any": [
+        "中小企業",
+        "補助金",
+        "義務",
+        "ガイドライン",
+        "電子インボイス",
+        "DX"
+      ]
+    },
+    {
+      "name": "文部科学省 新着",
+      "type": "rss",
+      "url": "https://www.mext.go.jp/rss.xml",
+      "category": "教育",
+      "keywords_any": [
+        "GIGAスクール",
+        "DX",
+        "端末",
+        "ガイドライン",
+        "補助"
+      ]
+    },
+    {
+      "name": "厚労省 新着",
+      "type": "rss",
+      "url": "https://www.mhlw.go.jp/stf/rss.xml",
+      "category": "医療・労働",
+      "keywords_any": [
+        "医療DX",
+        "診療報酬",
+        "ガイドライン",
+        "指針",
+        "保存義務",
+        "電子カルテ"
+      ]
+    },
+    {
+      "name": "e-Gov パブリックコメント（トップ）",
+      "type": "page",
+      "url": "https://public-comment.e-gov.go.jp/",
+      "category": "制度予告",
+      "keywords_any": [
+        "告示",
+        "省令",
+        "指針",
+        "保存",
+        "通信",
+        "学校",
+        "医療",
+        "電気通信"
+      ]
+    },
+    {
+      "name": "ミラサポplus RSS",
+      "type": "rss",
+      "url": "https://mirasapo-plus.go.jp/rss_feed/",
+      "category": "中小企業支援",
+      "keywords_any": [
+        "補助金",
+        "助成",
+        "IT導入補助金",
+        "公募"
+      ]
+    },
+    {
+      "name": "J-Net21 RSS",
+      "type": "rss",
+      "url": "https://j-net21.smrj.go.jp/rss/jnet21.rdf",
+      "category": "中小企業支援",
+      "keywords_any": [
+        "公募",
+        "補助",
+        "助成",
+        "IT化",
+        "テレワーク"
+      ]
+    },
+    {
+      "name": "JPCERT/CC 注意喚起・週報",
+      "type": "rss",
+      "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
+      "category": "セキュリティ",
+      "keywords_any": [
+        "注意喚起",
+        "Active",
+        "攻撃",
+        "国内",
+        "ゼロデイ",
+        "KEV"
+      ]
+    },
+    {
+      "name": "JVN iPedia 新着",
+      "type": "rss",
+      "url": "https://jvndb.jvn.jp/ja/feed/",
+      "category": "セキュリティ",
+      "keywords_any": [
+        "Fortinet",
+        "Cisco",
+        "VMware",
+        "Windows",
+        "OpenSSL",
+        "認証",
+        "RCE",
+        "CVE"
+      ]
+    },
+    {
+      "name": "Fortinet PSIRT/Blog",
+      "type": "rss",
+      "url": "https://www.fortinet.com/jp/rss-feeds",
+      "category": "セキュリティ",
+      "keywords_any": [
+        "FortiOS",
+        "FortiGate",
+        "Analyzer",
+        "Advisory",
+        "Firmware",
+        "CVE"
+      ]
+    },
+    {
+      "name": "Microsoft MSRC Update Guide",
+      "type": "rss",
+      "url": "https://msrc.microsoft.com/update-guide/rss",
+      "category": "セキュリティ",
+      "keywords_any": [
+        "Exploitation",
+        "8.0",
+        "Critical",
+        "Windows",
+        "Exchange",
+        "SharePoint",
+        "CVE"
+      ]
+    },
+    {
+      "name": "AWS Security Bulletins",
+      "type": "rss",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/",
+      "category": "セキュリティ",
+      "keywords_any": [
+        "Security Bulletin",
+        "CVE",
+        "vulnerability",
+        "advisory",
+        "patch"
+      ]
+    },
+    {
+      "name": "CISA ICS Advisories",
+      "type": "rss",
+      "url": "https://www.cisa.gov/feeds/ics-advisories.xml",
+      "category": "産業制御",
+      "keywords_any": [
+        "ICS Advisory",
+        "PLC",
+        "HMI",
+        "SCADA",
+        "Siemens",
+        "Schneider",
+        "Mitsubishi"
+      ]
+    },
+    {
+      "name": "ITmedia 総合RSS一覧",
+      "type": "rss",
+      "url": "https://corp.itmedia.co.jp/media/rss_list/",
+      "category": "ICTトレンド",
+      "keywords_any": [
+        "制度",
+        "義務",
+        "新機能",
+        "ローンチ",
+        "SaaS",
+        "B2B"
+      ]
+    },
+    {
+      "name": "ZDNet Japan",
+      "type": "rss",
+      "url": "http://feed.japan.zdnet.com/rss/index.rdf",
+      "category": "ICTトレンド",
+      "keywords_any": [
+        "ガイドライン",
+        "B2B",
+        "SaaS",
+        "セキュリティ",
+        "DX"
+      ]
+    }
+  ]
+}
