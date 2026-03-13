@@ -1,5 +1,8 @@
 timestamp,feed_name,category,title,link,published
-2026-03-11_161500,デジタル庁 新着・更新,政策・制度,地方公共団体の基幹業務システムの統一・標準化に係るガバメントクラウド利用における推奨構成の資料を更新しました,https://www.digital.go.jp/policies/local_governments,"Wed, 11 Mar 2026 15:00:00 +0900"
-2026-03-11_161500,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: Adobe AcrobatおよびReaderの脆弱性（APSB26-26）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260006.html,2026-03-11T11:40+09:00
-2026-03-11_161500,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: 2026年3月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260005.html,2026-03-11T11:40+09:00
-2026-03-11_161500,ZDNet Japan,ICTトレンド,アリババクラウド、新データセンターを開設--AI開発プラットフォームの展開も,https://japan.zdnet.com/article/35244896/,2026-03-11T15:28:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,リスクか、保護か--AIでも必須になる5つのセキュリティ対策ポイント,https://japan.zdnet.com/article/35244907/,2026-03-13T06:30:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,オープンハウス、グループでSaaS管理基盤を活用--運用の自動化で効率化図る,https://japan.zdnet.com/article/35244962/,2026-03-12T16:40:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,「SaaSの死」払拭へSaaSベンダーはユーザーのAI利用率を示せ,https://japan.zdnet.com/article/35244919/,2026-03-12T10:25:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,「Android」スマホにハードウェアの脆弱性、4台に1台に影響のおそれ,https://japan.zdnet.com/article/35244912/,2026-03-12T10:05:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,トヨクモCEO、「SaaSの死」は勝機--「適者生存」で攻めに転じる戦略とは,https://japan.zdnet.com/article/35244838/,2026-03-12T07:00:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,AIを悪用する脅威に備える重要な6つのサイバーセキュリティ戦略,https://japan.zdnet.com/article/35244740/,2026-03-12T06:30:00+09:00
+2026-03-13_090412,ZDNet Japan,ICTトレンド,AIを推進するCIOは変化を捉える柔軟な姿勢が大切--ソフォスCIO/CDOのヤング氏,https://japan.zdnet.com/article/35244720/,2026-03-12T06:00:00+09:00
