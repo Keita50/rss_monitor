@@ -1,4 +1,7 @@
 timestamp,feed_name,category,title,link,published
-2026-03-30_162855,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: F5 BIG-IP Access Policy Managerの脆弱性（CVE-2025-53521）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260007.html,2026-03-30T13:08+09:00
-2026-03-30_162855,ZDNet Japan,ICTトレンド,Zendesk、AI時代の新料金「成果課金」採用--ISMAP取得で公共・金融に攻勢,https://japan.zdnet.com/article/35245782/,2026-03-30T14:49:00+09:00
-2026-03-30_162855,ZDNet Japan,ICTトレンド,[PR]AI活用の成否を分かつ「データの構造化」——営業DXを加速させる次世代基盤の条件,https://japan.zdnet.com/pickup/usonar_202603/35245385/,2026-03-30T11:00:00+09:00
+2026-03-31_162744,デジタル庁 新着・更新,政策・制度,「預貯金口座付番制度について」のよくある質問を更新しました,https://www.digital.go.jp/policies/mynumber_faq_09,"Tue, 31 Mar 2026 15:00:00 +0900"
+2026-03-31_162744,デジタル庁 新着・更新,政策・制度,デジタル社会推進標準ガイドライン：「DS-222 政府情報システムにおける脅威の検知・対応のためのログ取得・分析導入ガイドブック」を掲載しました,https://www.digital.go.jp/resources/standard_guidelines,"Tue, 31 Mar 2026 15:00:00 +0900"
+2026-03-31_162744,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける境界外読み取りの脆弱性（CVE-2026-3055）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260008.html,2026-03-31T13:31+09:00
+2026-03-31_162744,ZDNet Japan,ICTトレンド,約7割がAIエージェントのセキュリティリスクを懸念--KnowBe4調査,https://japan.zdnet.com/article/35245848/,2026-03-31T16:02:00+09:00
+2026-03-31_162744,ZDNet Japan,ICTトレンド,[PR]今や攻撃標的と化したVPN、境界防御は限界に。ゼロトラストによる新アクセスモデルでセキュリティ強化,https://japan.zdnet.com/pickup/tdsynnex_broadcom/35244884/,2026-03-31T15:00:00+09:00
+2026-03-31_162744,ZDNet Japan,ICTトレンド,TDCソフト、社内ネットワーク完結の定額制AIアプライアンスを発表,https://japan.zdnet.com/article/35245842/,2026-03-31T14:53:00+09:00
