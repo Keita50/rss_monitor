@@ -1,7 +1,2 @@
 timestamp,feed_name,category,title,link,published
-2026-03-31_162744,デジタル庁 新着・更新,政策・制度,「預貯金口座付番制度について」のよくある質問を更新しました,https://www.digital.go.jp/policies/mynumber_faq_09,"Tue, 31 Mar 2026 15:00:00 +0900"
-2026-03-31_162744,デジタル庁 新着・更新,政策・制度,デジタル社会推進標準ガイドライン：「DS-222 政府情報システムにおける脅威の検知・対応のためのログ取得・分析導入ガイドブック」を掲載しました,https://www.digital.go.jp/resources/standard_guidelines,"Tue, 31 Mar 2026 15:00:00 +0900"
-2026-03-31_162744,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける境界外読み取りの脆弱性（CVE-2026-3055）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260008.html,2026-03-31T13:31+09:00
-2026-03-31_162744,ZDNet Japan,ICTトレンド,約7割がAIエージェントのセキュリティリスクを懸念--KnowBe4調査,https://japan.zdnet.com/article/35245848/,2026-03-31T16:02:00+09:00
-2026-03-31_162744,ZDNet Japan,ICTトレンド,[PR]今や攻撃標的と化したVPN、境界防御は限界に。ゼロトラストによる新アクセスモデルでセキュリティ強化,https://japan.zdnet.com/pickup/tdsynnex_broadcom/35244884/,2026-03-31T15:00:00+09:00
-2026-03-31_162744,ZDNet Japan,ICTトレンド,TDCソフト、社内ネットワーク完結の定額制AIアプライアンスを発表,https://japan.zdnet.com/article/35245842/,2026-03-31T14:53:00+09:00
+2026-04-01_162819,デジタル庁 新着・更新,政策・制度,「謝金の標準支払基準」の改定について更新しました,https://www.digital.go.jp/resources/honorarium-guideline,"Wed, 01 Apr 2026 15:00:00 +0900"
