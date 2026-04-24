@@ -1,5 +1,9 @@
 timestamp,feed_name,category,title,link,published
-2026-04-22_162940,デジタル庁 新着・更新,政策・制度,一般競争入札：土地関連台帳共通システム整備事業（住居表示台帳等電子化に係る検証事業）（その2）を掲載しました,https://www.digital.go.jp/procurement,"Wed, 22 Apr 2026 15:00:00 +0900"
-2026-04-22_162940,JPCERT/CC 注意喚起・週報,セキュリティ,Weekly Report: 2026年4月マイクロソフトセキュリティ更新プログラムに関する注意喚起,https://www.jpcert.or.jp/wr/2026/wr260422.html#12,2026-04-22T09:07+09:00
-2026-04-22_162940,JPCERT/CC 注意喚起・週報,セキュリティ,Weekly Report: Adobe AcrobatおよびReaderの脆弱性（APSB26-43）に関する注意喚起,https://www.jpcert.or.jp/wr/2026/wr260422.html#13,2026-04-22T09:07+09:00
-2026-04-22_162940,ZDNet Japan,ICTトレンド,NEC、「ハイブリッドクラウド・バイ・デザイン」に基づいたクラウド基盤を提供開始,https://japan.zdnet.com/article/35246718/,2026-04-22T13:30:00+09:00
+2026-04-24_091329,デジタル庁 新着・更新,政策・制度,デジタル関係制度改革検討会（第10回）を開催しました,https://www.digital.go.jp/councils/digital-system-reform/9474fdac-7640-4f63-9111-f1dafa426d1e,"Thu, 23 Apr 2026 17:07:09 +0900"
+2026-04-24_091329,デジタル庁 新着・更新,政策・制度,商業登記電子証明書のリモート署名（商業登記リモート署名）の導入についてお知らせします,https://www.digital.go.jp/news/d0a6665d-8e21-4e12-8859-c522dd5f836c,"Thu, 23 Apr 2026 15:30:31 +0900"
+2026-04-24_091329,ZDNet Japan,ICTトレンド,F5、AIのセキュリティリスクやアプリ統合運用管理のダッシュボードを発表,https://japan.zdnet.com/article/35246802/,2026-04-23T15:28:00+09:00
+2026-04-24_091329,ZDNet Japan,ICTトレンド,リコージャパン、SCS評価制度対応を支援--中堅・中小企業向けに全国展開,https://japan.zdnet.com/article/35246778/,2026-04-23T11:18:00+09:00
+2026-04-24_091329,ZDNet Japan,ICTトレンド,Sansan、ネットワーク監視運用の属人化をゾーホーの「Site24x7」で解消,https://japan.zdnet.com/article/35246728/,2026-04-23T11:00:00+09:00
+2026-04-24_091329,ZDNet Japan,ICTトレンド,「Chrome Enterprise」、「Auto Browse」などの新機能を追加,https://japan.zdnet.com/article/35246774/,2026-04-23T10:06:00+09:00
+2026-04-24_091329,ZDNet Japan,ICTトレンド,「Firefox」最新版で271件の脆弱性を修正、「Claude Mythos」を活用,https://japan.zdnet.com/article/35246770/,2026-04-23T09:03:00+09:00
+2026-04-24_091329,ZDNet Japan,ICTトレンド,グーグル、AIエージェントによるサイバーセキュリティ基盤「Agentic Defense」を発表,https://japan.zdnet.com/article/35246767/,2026-04-23T08:26:00+09:00
