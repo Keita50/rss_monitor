@@ -1,2 +1,13 @@
 timestamp,feed_name,category,title,link,published
-2026-05-13_091912,ZDNet Japan,ICTトレンド,「不十分なエンドポイント管理」が企業を危険にさらす--サイバーインシデントが無くならない理由,https://japan.zdnet.com/article/35247349/,2026-05-12T07:30:00+09:00
+2026-05-14_165336,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: GUARDIANWALL MailSuiteにおけるスタックベースのバッファオーバーフローの脆弱性に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260013.html,2026-05-13T15:33+09:00
+2026-05-14_165336,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: 2026年5月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260012.html,2026-05-13T11:18+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,パナソニック コネクト「Cameleo」が三菱電機の新サービスに採用--クラウド映像基盤でビル管理DX,https://japan.zdnet.com/article/35247519/,2026-05-14T14:14:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,生成AI利用者の約3割がヒヤリハットを経験--サイバーセキュリティクラウド調査,https://japan.zdnet.com/article/35247508/,2026-05-14T12:33:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,MUFGとGoogleの提携が映す「DXによる既存業界の融合と存亡」,https://japan.zdnet.com/article/35247496/,2026-05-14T10:30:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,日本オラクル、SaaS事業者のAIサービス化支援の取り組みを紹介,https://japan.zdnet.com/article/35247482/,2026-05-14T08:47:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,パナソニックEW、街路灯やカーブミラーなどのインフラ管理をスマホとAIで効率化,https://japan.zdnet.com/article/35247481/,2026-05-13T17:40:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,Wizが導く“テクノロジーの解放”--セキュリティをイノベーションの推進力へ,https://japan.zdnet.com/article/35247469/,2026-05-13T17:22:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,パナソニックHD、構造改革の刈り取りへ--AI需要追い風に営業利益5500億円を狙う,https://japan.zdnet.com/article/35247456/,2026-05-13T16:30:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,シャープが示した再成長ロードマップ--AIサーバー、DX、宇宙通信,https://japan.zdnet.com/article/35247419/,2026-05-13T10:13:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,人の意図に寄り添う「インテントAI」の可能性,https://japan.zdnet.com/article/35247379/,2026-05-13T10:00:00+09:00
+2026-05-14_165336,ZDNet Japan,ICTトレンド,グーグル、銀行を装った電話を自動切断する機能を「Android」に導入へ,https://japan.zdnet.com/article/35247425/,2026-05-13T09:54:00+09:00
