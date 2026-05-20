@@ -1,3 +1,6 @@
 timestamp,feed_name,category,title,link,published
-2026-05-20_092147,ZDNet Japan,ICTトレンド,あなたの組織のインフラは、セキュリティの目標に応えられるか？,https://japan.zdnet.com/article/35247589/,2026-05-20T07:00:00+09:00
-2026-05-20_092147,ZDNet Japan,ICTトレンド,リリース前のバグを未然に防ぐ--予防的セキュリティへの転換,https://japan.zdnet.com/article/35247408/,2026-05-20T06:00:00+09:00
+2026-05-20_170640,デジタル庁 新着・更新,政策・制度,一般競争入札：令和8年度地方公共団体の基幹業務システム統一・標準化における文字要件及び文字同定に係る調査研究（再度公告）を掲載しました,https://www.digital.go.jp/procurement,"Wed, 20 May 2026 15:00:00 +0900"
+2026-05-20_170640,JPCERT/CC 注意喚起・週報,セキュリティ,Weekly Report: GUARDIANWALL MailSuiteにおけるスタックベースのバッファオーバーフローの脆弱性に関する注意喚起,https://www.jpcert.or.jp/wr/2026/wr260520.html#15,2026-05-20T09:21+09:00
+2026-05-20_170640,ZDNet Japan,ICTトレンド,ヴイエムウェア、「VMware Cloud Foundation 9.1」を発表,https://japan.zdnet.com/article/35247745/,2026-05-20T16:34:00+09:00
+2026-05-20_170640,ZDNet Japan,ICTトレンド,レッドハットとパナソニック コネクト、「TOUGHBOOK」でエッジ基盤強化--製造現場DXを推進,https://japan.zdnet.com/article/35247740/,2026-05-20T14:32:00+09:00
+2026-05-20_170640,ZDNet Japan,ICTトレンド,Absolute、AIによる復旧自動化とSSE連携でサイバーレジリエンスを強化,https://japan.zdnet.com/article/35247718/,2026-05-20T12:00:00+09:00
