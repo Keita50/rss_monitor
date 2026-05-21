@@ -1,6 +1,6 @@
 timestamp,feed_name,category,title,link,published
-2026-05-20_170640,デジタル庁 新着・更新,政策・制度,一般競争入札：令和8年度地方公共団体の基幹業務システム統一・標準化における文字要件及び文字同定に係る調査研究（再度公告）を掲載しました,https://www.digital.go.jp/procurement,"Wed, 20 May 2026 15:00:00 +0900"
-2026-05-20_170640,JPCERT/CC 注意喚起・週報,セキュリティ,Weekly Report: GUARDIANWALL MailSuiteにおけるスタックベースのバッファオーバーフローの脆弱性に関する注意喚起,https://www.jpcert.or.jp/wr/2026/wr260520.html#15,2026-05-20T09:21+09:00
-2026-05-20_170640,ZDNet Japan,ICTトレンド,ヴイエムウェア、「VMware Cloud Foundation 9.1」を発表,https://japan.zdnet.com/article/35247745/,2026-05-20T16:34:00+09:00
-2026-05-20_170640,ZDNet Japan,ICTトレンド,レッドハットとパナソニック コネクト、「TOUGHBOOK」でエッジ基盤強化--製造現場DXを推進,https://japan.zdnet.com/article/35247740/,2026-05-20T14:32:00+09:00
-2026-05-20_170640,ZDNet Japan,ICTトレンド,Absolute、AIによる復旧自動化とSSE連携でサイバーレジリエンスを強化,https://japan.zdnet.com/article/35247718/,2026-05-20T12:00:00+09:00
+2026-05-21_171017,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: TrendAI Apex Oneなどのトレンドマイクロ製品における複数の脆弱性に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260014.html,2026-05-21T15:23+09:00
+2026-05-21_171017,ZDNet Japan,ICTトレンド,ガートナー、AIエージェントのセキュリティで注力すべき6つのアクションを発表,https://japan.zdnet.com/article/35247812/,2026-05-21T14:00:00+09:00
+2026-05-21_171017,ZDNet Japan,ICTトレンド,ネットスコープ、AIエコシステム全体を保護する「Netskope One AI Security」を発表,https://japan.zdnet.com/article/35247754/,2026-05-21T12:00:00+09:00
+2026-05-21_171017,ZDNet Japan,ICTトレンド,エージェント型コーディングの「終末論」をめぐる5つの誤解,https://japan.zdnet.com/article/35247475/,2026-05-21T07:00:00+09:00
+2026-05-21_171017,ZDNet Japan,ICTトレンド,製薬のJCRファーマ、セキュリティ基盤をクラウドストライクで強化,https://japan.zdnet.com/article/35247766/,2026-05-20T17:50:00+09:00
