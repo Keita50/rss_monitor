@@ -1,9 +1,3 @@
 timestamp,feed_name,category,title,link,published
-2026-06-11_092759,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: Adobe AcrobatおよびReaderの脆弱性（APSB26-63）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260018.html,2026-06-10T13:45+09:00
-2026-06-11_092759,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: 2026年6月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260017.html,2026-06-10T13:45+09:00
-2026-06-11_092759,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: Check Point Software Technologies社製品における認証バイパスの脆弱性（CVE-2026-50751）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260016.html,2026-06-10T13:45+09:00
-2026-06-11_092759,ZDNet Japan,ICTトレンド,BoxのCIOに聞く社内のAIエージェント展開--セキュリティと変革のバランスを重視,https://japan.zdnet.com/article/35248534/,2026-06-11T07:00:00+09:00
-2026-06-11_092759,ZDNet Japan,ICTトレンド,サイバー攻撃におけるAIは、葬送のフリーレンのゾルトラークに成り得るのか？［後編］,https://japan.zdnet.com/article/35248070/,2026-06-10T07:00:00+09:00
-2026-06-11_092759,ZDNet Japan,ICTトレンド,リコージャパン、中小企業の「SCS評価制度」対応をAIで自走支援,https://japan.zdnet.com/article/35248674/,2026-06-10T07:00:00+09:00
-2026-06-11_092759,ZDNet Japan,ICTトレンド,ゼットスケーラーCEOが語るAI時代の防御策--エージェントの脅威を防ぐゼロトラスト,https://japan.zdnet.com/article/35248670/,2026-06-10T06:30:00+09:00
-2026-06-11_092759,ZDNet Japan,ICTトレンド,「Ubuntu 26.04はAIエージェント時代のOS」--カノニカルのCEOが語る、その理由,https://japan.zdnet.com/article/35248407/,2026-06-10T06:00:00+09:00
+2026-06-11_172959,ZDNet Japan,ICTトレンド,ミズノ、法務オートメーション「OLGA」を導入--法務業務を効率化,https://japan.zdnet.com/article/35248755/,2026-06-11T12:21:00+09:00
+2026-06-11_172959,ZDNet Japan,ICTトレンド,日立とGoogle Cloud、戦略的提携を拡大--FDEのケイパビリティを強化,https://japan.zdnet.com/article/35248696/,2026-06-11T11:00:00+09:00
