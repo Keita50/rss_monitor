@@ -1,0 +1,2 @@
+timestamp,feed_name,category,title,link,published
+2026-08-03_193002,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (更新),https://www.jpcert.or.jp/at/2026/at260021.html,2026-08-03T15:00+09:00
