@@ -1,4 +1,2 @@
 timestamp,feed_name,category,title,link,published
-2026-09-28_233650,JPCERT/CC 注意喚起・週報,セキュリティ,注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (公開),https://www.jpcert.or.jp/at/2026/at260029.html,2026-09-28T17:09+09:00
-2026-09-28_233650,ZDNet Japan,ICTトレンド,JR西日本、API開発プロセスを高度化--TISIがAPI基盤の設計から運用までを支援,https://japan.zdnet.com/article/35253039/,2026-09-28T16:40:00+09:00
-2026-09-28_233650,ZDNet Japan,ICTトレンド,[PR]ソフトウェアだけでは守れない時代に、ハードウェアで多層防御を検知をかいくぐるローレイヤー攻撃まで守れる、日本HPのPCセキュリティの正体,https://japan.zdnet.com/extra/hp_202609/35252185/,2026-09-28T13:00:00+09:00
+2026-09-29_115531,ZDNet Japan,ICTトレンド,数カ月で消えるAI予算とシャドーAIの脅威--Datadog CPOに聞く「AI本格運用」を支えるIT戦略,https://japan.zdnet.com/article/35252559/,2026-09-29T07:00:00+09:00
