@@ -1,3 +1,2 @@
 timestamp,feed_name,category,title,link,published
-2026-11-04_235445,ZDNet Japan,ICTトレンド,[PR]メルカリに学ぶ、AI 時代のセキュリティ対策 ― VDI に依存しないデータ保護とブラウザ起点のアプローチ,https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_15/35253062/,2026-11-04T16:00:00+09:00
-2026-11-04_235445,ZDNet Japan,ICTトレンド,[PR]セキュリティ対策なら3-2-1-1-0で、コストと運用の壁を越える理想のバックアップとは,https://japan.zdnet.com/extra/synology_202611/35254032/,2026-11-04T15:00:00+09:00
+2026-11-05_125332,JPCERT/CC 注意喚起・週報,セキュリティ,Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起,https://www.jpcert.or.jp/wr/2026/wr261105.html#15,2026-11-05T09:52+09:00
