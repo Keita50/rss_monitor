@@ -1,2 +1,4 @@
 timestamp,feed_name,category,title,link,published
-2026-11-05_125332,JPCERT/CC 注意喚起・週報,セキュリティ,Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起,https://www.jpcert.or.jp/wr/2026/wr261105.html#15,2026-11-05T09:52+09:00
+2026-11-06_125121,ZDNet Japan,ICTトレンド,チェック・ポイント、日本に「AIサイバー攻撃検証チーム」--悪用可能なリスク特定を支援,https://japan.zdnet.com/article/35254478/,2026-11-06T10:35:00+09:00
+2026-11-06_125121,ZDNet Japan,ICTトレンド,アラートを減らすだけでは不十分--AIOpsで「障害対応型」から「予防型」へ移行する方法,https://japan.zdnet.com/article/35254174/,2026-11-06T07:00:00+09:00
+2026-11-06_125121,ZDNet Japan,ICTトレンド,第1回 AI自律攻撃の衝撃と「2026年問題」--人間のスピードを超えた脆弱性危機の現実,https://japan.zdnet.com/article/35253791/,2026-11-06T06:00:00+09:00
